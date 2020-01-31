@@ -6,5 +6,9 @@ end
 
 
 # Put your variables here~!
-
-binding.pry
+driver
+passenger
+ride
+all
+distance
+# binding.pry
